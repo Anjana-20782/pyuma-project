@@ -681,9 +681,9 @@ font-weight: bold;
 .elevanone{
 
     width: 1005;
-    height: 10vh;
+    height: 8vh;
     /* background-color: blue; */
-    margin-top: 6vh;
+    margin-top: 4vh;
     padding-left: 40px;
 }
 
@@ -817,7 +817,7 @@ font-weight: bold;
     width: 100%;
     height: 8vh;
     /* background-color: blue; */
-    margin-top: 6vh;
+    margin-top: 4vh;
 }
 
 .twelveone h1{
@@ -954,4 +954,93 @@ font-weight: bold;
      position: absolute;
     bottom: 10px;
     left: 81%;
+}
+
+/* thirteen */
+
+
+.thirteen{
+
+    width: 100%;
+    height: 80vh;
+    /* background-color: red; */
+}
+
+.thirteenone{
+
+    width: 100%;
+    height: 5vh;
+    /* background-color: blue; */
+    margin-top: 20px;
+}
+
+.thirteenone h1{
+
+     text-transform: uppercase;
+    font-size: 26px;
+    font-style: normal;
+    font-family: arial;
+    color: black;
+     font-weight: 600;
+     padding-left: 30px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+/* fourteen */
+
+.fourteen{
+
+    width: 100%;
+    height: 58vh;
+    background-color: rgb(21, 21, 21);
+}
+
+.fourteen1{
+
+    width: 93%;
+    height: 40vh;
+    /* background-color: blue; */
+    margin-left: 45px;
+
+}
+
+.foo1{
+
+    width: 16%;
+    height: 40vh;
+    /* background-color: red; */
+    margin-left: 70px;
+    padding-top: 40px;
+
+}
+
+.footer1{
+
+ font-size: 18px;
+ text-transform: uppercase;
+ color: white;
+ font-weight: 500;
+ font-family: arial;
+ font-style: normal;
+ height: 35px;
+}
+
+.foot1{
+
+    font-size: 18px;
+    color: rgb(234, 221, 221);
+    height: 30px;
+    font-weight: 100;
+    font-family: arial;
+    font-style: normal;
 }
