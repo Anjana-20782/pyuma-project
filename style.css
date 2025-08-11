@@ -28,12 +28,16 @@
     height: 10vh;
     background-color: black;
     display: flex;
+    position: fixed;
+    
+   
 }
 
 .secondone{
 
     width: 7%;
     height: 10vh;
+    
     /* background-color: red; */
 }
 
@@ -53,6 +57,7 @@
     justify-content: center;
     gap: 37px;
     align-items: center;
+    
 }
 .secondtwo .item1{
 
@@ -213,10 +218,10 @@ background-color: rgb(168, 165, 165);
 .fiveone .b2{
 
 border: 1px solid white;
-width: 100px;
-height: 35px;
+width: 110px;
+height: 40px;
 text-transform: uppercase;
-font-size: 14px;
+font-size: 15px;
 font-weight: bold;
 
 }
@@ -399,13 +404,67 @@ font-weight: bold;
 .seventwo .b3{
 
 border: 1px solid white;
-width: 100px;
-height: 35px;
+width: 110px;
+height: 40px;
 text-transform: uppercase;
-font-size: 14px;
+font-size: 15px;
 font-weight: bold;
 
 }
 
 
+/* eight */
 
+
+.eight
+{
+width: 100%;
+height: 60vh;
+background-image: url(./images/aa2d6a90661bbb8598ba57b13530d894118a27ad.avif);
+background-size: cover;
+margin-top: 3vh;
+}
+
+.eightone{
+
+    width: 560px;
+    height: 28vh;
+    /* background-color: red; */
+    margin-left: 63%;
+    padding-top: 210px;
+   
+}
+
+.eightone h1{
+
+    text-transform: uppercase;
+    font-size: 35px;
+    font-style: normal;
+    font-family: arial;
+    color: white;
+     padding-left: 190px;
+     height: 49px;
+}
+
+.eightone p{
+
+     font-size: 23px;
+    color: white;
+    height: 50px;
+    font-family: arial;
+    text-transform: uppercase;
+    font-weight: 100;
+    padding-left: 100px;
+    text-align: center;
+}
+
+.eightone .b4{
+
+    border: 1px solid white;
+width: 110px;
+height: 40px;
+text-transform: uppercase;
+font-size: 15px;
+font-weight: bold;
+ margin-left: 260px;
+}
