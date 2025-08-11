@@ -801,3 +801,157 @@ font-weight: bold;
     bottom: 10px;
     left: 76%;
 }
+
+
+/* twelve */
+
+.twelve{
+
+    width: 100%;
+    height: 60vh;
+    /* background-color: red; */
+}
+
+.twelveone{
+
+    width: 100%;
+    height: 8vh;
+    /* background-color: blue; */
+    margin-top: 6vh;
+}
+
+.twelveone h1{
+
+     text-transform: uppercase;
+    font-size: 26px;
+    font-style: normal;
+    font-family: arial;
+    color: black;
+     font-weight: 600;
+     padding-left: 30px;
+}
+
+.twelvetwo{
+
+     width: 93%;
+    height: 45vh;
+    /* background-color: blue; */
+    display: flex;
+   margin-left: 50px;
+   position: absolute; 
+}
+
+.twelve1{
+
+     width: 20%;
+    height: 45vh;
+}
+
+.twelve1 img{
+
+    width: 90%;
+    height: 45vh;
+}
+
+.twelve1 h1{
+
+     font-size: 22px;
+    font-family: arial;
+    text-transform: uppercase;
+    color: white;
+     position: absolute;
+    bottom: 10px;
+    left: 10px;
+}
+
+.twelve2{
+
+     width: 20%;
+    height: 45vh;
+}
+
+.twelve2 img{
+
+    width: 90%;
+    height: 45vh;
+}
+
+.twelve2 h1{
+
+     font-size: 22px;
+    font-family: arial;
+    text-transform: uppercase;
+    color: rgb(255, 255, 255);
+     position: absolute;
+    bottom: 10px;
+    left: 21%;
+}
+
+.twelve3{
+
+     width: 20%;
+    height: 45vh;
+}
+
+.twelve3 img{
+
+    width: 90%;
+    height: 45vh;
+}
+
+.twelve3 h1{
+
+     font-size: 22px;
+    font-family: arial;
+    text-transform: uppercase;
+    color: rgb(255, 255, 255);
+     position: absolute;
+    bottom: 10px;
+    left: 41%;
+}
+
+.twelve4{
+
+     width: 20%;
+    height: 45vh;
+}
+
+.twelve4 img{
+
+    width: 90%;
+    height: 45vh;
+}
+
+
+.twelve4 h1{
+
+     font-size: 22px;
+    font-family: arial;
+    text-transform: uppercase;
+    color: rgb(255, 255, 255);
+     position: absolute;
+    bottom: 10px;
+    left: 61%;
+}
+.twelve5{
+
+     width: 20%;
+    height: 45vh;
+}
+
+.twelve5 img{
+
+    width: 100%;
+    height: 45vh;
+}
+
+.twelve5 h1{
+
+     font-size: 22px;
+    font-family: arial;
+    text-transform: uppercase;
+    color: rgb(255, 255, 255);
+     position: absolute;
+    bottom: 10px;
+    left: 81%;
+}
