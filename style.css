@@ -1008,9 +1008,11 @@ font-weight: bold;
 .fourteen1{
 
     width: 93%;
-    height: 40vh;
+    height: 44vh;
     /* background-color: blue; */
     margin-left: 45px;
+    display: flex;
+    border-bottom: 0.7px solid rgb(203, 199, 199);
 
 }
 
@@ -1028,7 +1030,7 @@ font-weight: bold;
 
  font-size: 18px;
  text-transform: uppercase;
- color: white;
+ color: rgb(255, 255, 255);
  font-weight: 500;
  font-family: arial;
  font-style: normal;
@@ -1037,10 +1039,197 @@ font-weight: bold;
 
 .foot1{
 
-    font-size: 18px;
-    color: rgb(234, 221, 221);
+    font-size: 16px;
+    color: rgb(213, 208, 208,0.7);
     height: 30px;
     font-weight: 100;
     font-family: arial;
     font-style: normal;
+}
+
+.foo2{
+
+   width: 16%;
+    height: 30vh;
+    /* background-color: red;  */
+    margin-left: 100px;
+    margin-top: 90px;
+}
+
+.foot2{
+
+   font-size: 16px;
+    color: rgb(213, 208, 208,0.7);
+    height: 30px;
+    font-weight: 100;
+    font-family: arial;
+    font-style: normal;
+}
+
+.foo3{
+
+     width: 16%;
+    height: 40vh;
+    /* background-color: red; */
+     margin-left: 120px;
+    padding-top: 40px;
+}
+
+.footer2{
+
+    font-size: 18px;
+ text-transform: uppercase;
+ color: white;
+ font-weight: 500;
+ font-family: arial;
+ font-style: normal;
+ height: 35px;
+}
+
+.foot3{
+
+    font-size: 16px;
+    color: rgb(213, 208, 208,0.7);
+    height: 30px;
+    font-weight: 100;
+    font-family: arial;
+    font-style: normal;
+}
+
+.foo4{
+
+      width: 21%;
+    height: 40vh;
+    /* background-color: red; */
+     margin-left: 90px;
+    padding-top: 40px;
+}
+
+.footer3{
+
+ font-size: 17px;
+ text-transform: uppercase;
+ color: white;
+ font-weight: 500;
+ font-family: arial;
+ font-style: normal;
+ height: 45px;
+}
+
+.footimg{
+
+    width: 100%;
+    height: 70px;
+    /* background-color: blue; */
+    display: flex;
+    gap: 20px;
+}
+
+.footimg img{
+
+   width: 35px;
+   height: 30px;
+   
+   /* background-color: white; */
+
+}
+
+.footer4{
+
+   font-size: 17px;
+ text-transform: uppercase;
+ color: white;
+ font-weight: 500;
+ font-family: arial;
+ font-style: normal;
+ height: 45px; 
+}
+
+.fourteen2 {
+
+    width: 100%;
+    height: 14vh;
+    display: flex;
+    /* background-color: blue; */
+}
+
+.last1{
+
+    width: 40%;
+    height: 14vh;
+    /* background-color: red; */
+    display: flex;
+    align-items: center;
+    margin-left: 40px;
+    gap: 10px;
+
+}
+
+.last1 img{
+
+    width: 30px;
+    height: 20px;
+    background-color: white;
+}
+
+.last2{
+
+    width: 20%;
+    height: 14vh;
+    display: flex;
+    align-items: center;
+   
+    /* background-color: red; */
+}
+
+.last3{
+
+    width: 150px;
+    height: 60px;
+     border: 1px solid rgb(175, 172, 172);
+     display: flex;
+     align-items: center;
+     border-radius: 5px;
+}
+
+.last2 img{
+
+    width: 80px;
+    height: 70px;
+    
+}
+
+.last2 h1{
+
+    color: white;
+    text-transform: uppercase;
+    font-family: arial;
+    font-size: 18px;
+
+}
+
+.last4{
+
+    width: 20%;
+    height: 5vh;
+    /* background-color: red; */
+   margin-left: 230px;
+   margin-top: 40px;
+   
+}
+
+.last4 p{
+
+   color: rgb(191, 189, 189);
+   font-size: 14px;
+  
+  
+}
+
+.p1{
+    width: 140px;
+    height: 20px;
+ font-size: 14px;
+    margin-left: 140px;
+    border-bottom: 1px solid white;
 }
